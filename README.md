@@ -6,6 +6,8 @@
 
 <h2>Link</h2>
 
-<a href=''>random quotes</a>
+<a href='https://brave-newton-dd0410.netlify.app/'>random quotes</a>
 
 <h2>Picture</h2>
+
+![randomQuote](https://user-images.githubusercontent.com/79015823/140591966-2213117d-3f98-455b-96df-ca8cd856e7eb.jpg)
