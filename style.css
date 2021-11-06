@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: rgb(196, 156, 201);
+}
+#quotesContainer {
+    margin: 7% auto auto auto;
+    width: 70%;
+    height: 400px;
+    padding: 1%;
+    text-align: center;
+    background-color: rgb(186, 147, 147);
+}
+#generateQuote {
+    display: block;
+    margin: 0 auto 5% auto;
+    max-width: 25%;
+    height: 15%;
+    padding: 0.5%;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    font-size: 1.5rem;
+}
+#generateQuote:active {
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+#quote {
+    font-size: 1.2rem;
+}
